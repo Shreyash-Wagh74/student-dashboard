@@ -1,7 +1,7 @@
 {
   "name": "student-dashboard",
   "version": "1.0.0",
-  "description": "Student Dashboard web application",
+  "description": "student dashboard web application",
   "main": "index.js",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
@@ -27,12 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saisatwik99/Student-Dashboard.git"
+    "url": "git+https://github.com/Shreyas-Wagh74/student-dashboard.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saisatwik99/Student-Dashboard/issues"
+    "url": "https://github.com/Shreyas-Wagh74/student-dashboard/issues"
   },
-  "homepage": "https://github.com/saisatwik99/Student-Dashboard#readme"
+  "homepage": "https://github.com/Shreyas-Wagh74/student-dashboard#readme",
+  "keywords": []
 }
