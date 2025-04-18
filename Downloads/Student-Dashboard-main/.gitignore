@@ -1,16 +1,17 @@
-# System files
-*.bash_history
-*.bash_profile
-*.bash_sessions
-*.cache/
-*.conda/
-*.config/
-*.continuum/
-*.dotnet/
-*.fontconfig/
-*.anaconda/
-*.aspnet/
-*.android/
-CPUserTextEncoding
-IdentityService/
-ai-navigator/
+# System and IDE files
+*/.bash*
+*/.cache/
+*/.conda/
+*/.config/
+*/.dotnet/
+*/.ipynb_checkpoints/
+*/.ipython/
+*/.jupyter/
+*/.local/
+*/.vscode/
+*/.idea/
+
+# Specific files
+CFUserTextEncoding
+.condarc
+.gitconfig
