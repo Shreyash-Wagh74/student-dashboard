@@ -1,0 +1,16 @@
+# System files
+*.bash_history
+*.bash_profile
+*.bash_sessions
+*.cache/
+*.conda/
+*.config/
+*.continuum/
+*.dotnet/
+*.fontconfig/
+*.anaconda/
+*.aspnet/
+*.android/
+CPUserTextEncoding
+IdentityService/
+ai-navigator/
