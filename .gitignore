@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+*.bak
+~$*
+
+# Runtime data
+*.log
+*.tmp
+
+# Dependency directories
+node_modules/
+.env
+
+# Editor directories
+.idea/
+.vscode/
+
+# System configs (from your error)
+CFUserTextEncoding
+.conda/
+.anaconda/
+.cache/
+.config/
